@@ -1,4 +1,8 @@
 # devopsbuddy
 startup ready web skeleton
 
-File Changing status
+# How to build
+Run the following command:
+```
+mvn clean install
+```
