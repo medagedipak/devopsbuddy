@@ -23,6 +23,5 @@
 hs_err_pid*
 
 target
-.classpath
-.project
-.settings
+.idea
+.devopsbuddy.iml
